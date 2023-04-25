@@ -1,4 +1,3 @@
-# test-task-1
-Тестовое задание №2. Реализация таймера
+Реализация таймера.
+\https://pogozhina.github.io/The-timer/
 
-https://pogozhina.github.io/test-task-1/
