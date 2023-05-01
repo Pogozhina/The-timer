@@ -1,3 +1,4 @@
 Реализация таймера.
-\https://pogozhina.github.io/The-timer/
+
+ https://webbyanna.github.io/The-timer/
 
